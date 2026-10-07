@@ -1,15 +1,15 @@
-# zenifyvim
+# zenvim
 
 - maintainer : Jimmy MG Lim (mirageglobe@gmail.com) / www.mirageglobe.com
-- source : https://github.com/mirageglobe/zenifyvim
+- source : https://github.com/mirageglobe/zenvim
 
-This project has been shifted to be simply named *zenify.vim*. zenifyvim, it speaks for itself.
+formerly named zenifyvim; renamed to zenvim on 2026-10-07 (the old github url redirects).
 
 # to use
 
 to use, add the following via Plug
 ```
-Plug "mirageglobe/zenifyvim"
+Plug "mirageglobe/zenvim"
 ```
 
 # guidelines
